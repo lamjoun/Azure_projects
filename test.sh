@@ -59,4 +59,4 @@ echo "Resource list"
 echo "======================================"
 echo "=======> Resource list ..."
 az resource list
-
+# ggg
